@@ -23,3 +23,4 @@ cacheSolve <- function(x, ...) {
   x$setInverseMatrix(inverse)
   inverse # return the inverse
 }
+# End
